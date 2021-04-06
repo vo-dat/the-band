@@ -1,0 +1,19 @@
+#header .menu-mobile{
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#header .search-icon{
+    float: right;
+    line-height: 46px;
+    color: #fff;
+    padding: 0 23px;
+}
+
+#header .search-icon:hover {
+    color: #fff!important;
+    background-color: #f44336!important;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+#slider{
+    position: relative;
+    padding-top:50% ;
+    margin-top: 46px;
+    background: url('https://www.w3schools.com/w3images/ny.jpg') top center / cover no-repeat;
+}
+
+#slider .text-content {
+    padding: 47px 16px;
+    bottom: 0;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+}
+#slider .text-header {
+    font-weight: 200;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+#slider .text-desriptction {
+    font-size: 16px;
+}

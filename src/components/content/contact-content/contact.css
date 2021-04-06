@@ -1,0 +1,40 @@
+.contact-desc {
+    padding: 32px 0px;
+}
+
+.contact-info i[class*="ti-"]{
+    width: 30px;
+    display: inline-block;
+}
+
+.contact-info {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+.contact-form {
+    font-size: 15px;
+}
+.form-control {
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+    line-height: 22px;
+    font-size: 16px;
+}
+.submit-btn {
+    border: none;
+    background: #000;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 15px;
+    float: right;
+    line-height: 22px;
+    cursor: pointer;
+    margin-right: -8px;
+}
+/* MAP-SECTION */
+.map-section img{
+    width: 100%;
+    filter: grayscale(50%);
+}

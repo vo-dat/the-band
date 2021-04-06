@@ -1,0 +1,54 @@
+#content .content-section{
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    padding: 64px 16px;
+    padding-right: 32px;
+    padding-left: 32px;
+}
+
+.text-about,.section-sub-heading {
+    margin: 15px 0;
+    font-size: 15px;
+}
+
+#content .section-heading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    margin: 10px 0;
+    line-height: 45px;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
+#content .section-sub-heading{
+    text-align: center;
+    font-size: 15px;
+    opacity: 0.4;
+    font-style: italic;
+}
+
+#content .text-about{
+    text-align: center;
+    text-align: justify ;
+    font-family: "Lato", sans-serif;
+    line-height: s1.4;
+}
+
+#content .box-team-list{
+    margin: 32px 0;
+}
+
+#content .box-team-list img{
+  
+    width: 60%;
+   margin-bottom: 16px;
+ }
+
+.box-team-list .item-name{
+    margin: 15px 0;
+    font-size: 15px;
+}
+ 
